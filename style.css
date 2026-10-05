@@ -1,0 +1,139 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+
+
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+
+}
+
+header{
+    background-image: url(oo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+
+.otaa{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+
+
+ .imgh{
+    width: 50px;
+    height: 50px;
+ }
+
+ p{
+    
+    color: rgb(165, 12, 12);
+    text-shadow: 10px 10px 20px rgb(245, 11, 89);
+    font-size: 44px;
+ }
+   
+    
+ .fo{
+    font-size: 60px;
+    color: #c329f6a0;
+    margin-top: 300px;
+    text-align: center;
+    text-shadow: 10px 10px 15px #8091e4a7;
+ }
+ 
+
+ .wh{
+    height: 1340px;
+    background: radial-gradient(circle,rgba(251, 63, 235, 1) 0%, rgba(219, 70, 252, 1) 100%);
+ }
+
+.boshqaruv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    row-gap: 50px;
+}
+
+.box{
+    margin-top: 80px;
+    border-radius: 12px;
+    border: solid  purple;
+    width: 360px;
+    height: 450px;
+    background: radial-gradient(circle,rgba(204, 105, 35, 1) 0%, rgba(250, 122, 120, 1) 100%);
+}
+
+
+.plo{
+    font-size: 70px;
+    display: flex;
+    text-shadow: 20px 20px 15px palevioletred;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.img{
+    width: 100%;
+    height: 70%;
+    border-radius: 12px;
+    padding: 10px 10px;
+}
+
+.fofo{
+    font-size: 40px;
+    padding: 5px;
+    color: rgb(77, 61, 77);
+    
+}
+
+.ort{
+    text-align: center;
+    color: black;
+
+}
+
+i{
+    font-size: 30px;
+   padding: 5px;
+    
+
+}
+
+.whh{
+    height: 600px;
+    background-color: pink;
+}
+
+.gop{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pppp{
+   color: black;
+}
+
+.lkj{
+    color: black;
+     font-family: "Aref Ruqaa Ink", serif;
+}
